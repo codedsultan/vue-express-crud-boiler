@@ -1,4 +1,4 @@
-# events-client
+# vue-express-boiler
 
 ## Project setup
 ```
