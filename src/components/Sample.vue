@@ -1,5 +1,5 @@
 <template>
-  <div v-if="currentSample" class="edit-form">
+  <div v-if="currentSample" class=" edit-form">
     <h4>Sample</h4>
     <form>
       <div class="form-group">
